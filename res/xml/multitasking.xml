@@ -41,5 +41,11 @@
             android:layout="@layout/preference_recents"
             android:title="@string/recents_category" />
 
+         <PreferenceScreen
+            android:key="gesture_anywhere"
+            android:fragment="com.dirtyunicorns.dutweaks.fragments.GestureAnywhereSettings"
+            android:layout="@layout/preference_gestureanywhere"
+            android:title="@string/gesture_anywhere_title" />
+
 </PreferenceScreen>
 
