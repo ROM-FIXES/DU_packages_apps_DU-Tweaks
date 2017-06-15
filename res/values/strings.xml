@@ -265,6 +265,9 @@
     <string name="keyguard_media_art_title">Media cover art</string>
     <string name="keyguard_media_art_summary">Enable media cover art on the lockscreen</string>
 
+    <!-- Lockscreen Visualizer -->
+    <string name="lockscreen_visualizer_title">Display music visualizer</string>
+
     <!-- Status bar Clock options -->
     <string name="status_bar_clock">Clock</string>
     <string name="clock_disabled_notice">When Clock switch is turned on, you can select additional clock options</string>
